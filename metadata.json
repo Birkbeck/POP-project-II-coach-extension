@@ -1,0 +1,8 @@
+{
+  "name": "POP Project II multiturn chat",
+  "type": "helper",
+  "properties": {
+    "user_type": "all", 
+    "component": "all"
+  }
+}
